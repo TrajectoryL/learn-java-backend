@@ -4,7 +4,7 @@
 
 [Java Web](https://www.bilibili.com/video/BV11741127ic?from=search&seid=15319522933890015197)
 
-Java语法
+[Java语法](Java语法.md)
 
 数学结构与算法
 
