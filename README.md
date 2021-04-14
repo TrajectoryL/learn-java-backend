@@ -18,4 +18,6 @@ Java相关技术
 
 JVM
 
+[Java泛型](https://blog.csdn.net/s10461/article/details/53941091)
+
 (待补完)
